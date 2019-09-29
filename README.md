@@ -77,3 +77,5 @@ _A list of my commonly used Git commands_
 | ------- | ----------- |
 | `git commit -ammend -m "[commit message]"` | Change previous commit message |
 | `git reset --hard origin/<branch>` | Reset local branch to origin |
+| `git reset <file>` | Remove file from staging |
+| `git reset` | Unstage all changes |
