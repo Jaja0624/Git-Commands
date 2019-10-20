@@ -82,4 +82,5 @@ _A list of my commonly used Git commands_
 | `git reset --hard origin/<branch>` | Reset local branch to origin |
 | `git reset <file>` | Remove file from staging |
 | `git reset` | Unstage all changes |
+| `git reset HEAD~` | Undo last commit |
 | `git push <remote_name> --delete <branch_name>` | Delete remote branch | 
