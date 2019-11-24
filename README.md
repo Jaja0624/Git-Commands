@@ -85,3 +85,4 @@ _A list of my commonly used Git commands_
 | `git reset` | Unstage all changes |
 | `git reset HEAD~` | Undo last commit |
 | `git push <remote_name> --delete <branch_name>` | Delete remote branch | 
+| `git clean -fd` | Clean branch of untracked files and directories |
