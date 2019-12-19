@@ -52,7 +52,7 @@ _A list of my commonly used Git commands_
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
 | `git stash apply` | Retrieve stash (simply |
-| `git rebase -i HEAD~n` | Squash the last n commits |
+| `git rebase -i HEAD~n` | Displays a list of the last 3 commits on the current branch (squash, pick, etc.) |
 
 ### Sharing & Updating Projects
 
