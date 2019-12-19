@@ -1,16 +1,5 @@
-Git Commands
+Git Commands Cheat Sheet
 ============
-
-## Translated Versions
-- [Versão em português](READMEpt.md)
-
-___
-
-_A list of my commonly used Git commands_
-
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
-
---
 
 ### Getting & Creating Projects
 
