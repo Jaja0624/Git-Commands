@@ -63,8 +63,10 @@ Git Commands Cheat Sheet
 | Command | Description |
 | ------- | ----------- |
 | `git log` | View changes |
+| `git log -n 1` | View latest commit | 
 | `git log --summary` | View changes (detailed) |
 | `git log --name-status HEAD^..HEAD` | View files modified from last commit |
+| `git diff` | Preview changes (assuming changes are not in staging/added) | 
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 ### I Messed Up
