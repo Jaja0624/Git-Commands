@@ -70,7 +70,7 @@ Git Commands Cheat Sheet
 ### I Messed Up
 | Command | Description |
 | ------- | ----------- |
-| `git commit -amend -m "[commit message]"` | Change previous commit message |
+| `git commit --amend -m "[commit message]"` | Change previous commit message |
 | `git reset --hard origin/<branch>` | Reset local branch to origin |
 | `git reset <file>` | Remove file from staging |
 | `git reset` | Unstage all changes |
